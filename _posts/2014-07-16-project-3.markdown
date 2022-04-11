@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Statistical Modeling and Clustering
+subtitle: Data Science for Diagnostics
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+# date: 2014-07-16
+img: clustering.png
+thumbnail: clustering.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+# project-date: April 2014
+client: Seaborn, Tableau, Python, Cloud, Clustering, Git
+category: Data Science 
+description: Early fault diagnosis in vehicles under warranty can save millions of dollars for any automotive manufacturing firm. I worked in a team of 5 and constructed hand crafted features and performing clustering. The developed model successfully detected faults in more than 90% of the production vehicles.    
 
 ---

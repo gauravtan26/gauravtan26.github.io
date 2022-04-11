@@ -1,15 +1,14 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Customer Reviews Analysis
+subtitle: NLP for Business 
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+# date: 2014-07-18
+img: topic_modelling.png
+thumbnail: topic_modelling.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+# project-date: April 2014
+client: BERT, spaCy, NLTK, Plotly, Python, Clustering, Cloud, Git 
+category: Data Science (NLP)
+description: Customers write a lot about products and services on social media. Extracting information from their reviews can help any business in developing its products. In this project, I took an active lead in developing a model to gain insights from customer reviews. I used state-of-the-art models for topic modeling (an unsupervised Natural Language Processing Technique) and created an interactive dashboard for the visualization of topics. In the entire course of this project, I worked with teams based in the United Kingdom and India.
 ---

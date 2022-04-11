@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Advertisement Detection in Comments
+subtitle: NLP for Content Moderation    
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+# date: 2014-07-15
+img: advertisement.png
+thumbnail: advertisement.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+# project-date: April 2014
+client: spaCy, Keras, Scikit-learn, AWS, Git
+category: Data Science (NLP)
+description: We connect, learn and have fun through internet around the world. There are several amazing articles, videos etc on internet. When an article or video becomes famous on internet and draws people, it also draws unwanted advertisements in comments section. Here, the aim was develop a model to predict whether a comment is an advertisement or not. The developed model was also deployed on AWS
 
 ---

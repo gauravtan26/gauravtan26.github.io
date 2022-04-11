@@ -1,15 +1,14 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Prediction of Air Pollution Levels
+subtitle: Data Science Bachelor's Thesis 
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+# date: 2014-07-14
+img: pollution.png
+thumbnail: pollution.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+# project-date: April 2014
+client: LSTM, Seaborn, Hypothesis Testing, Python, Git
+category: Data Science (Predictive Modeling)
+description: Air Pollution is a huge problem today, especially in metro cities. Prediction of air pollution can help people plan ahead. Also, governing bodies can form policies to mitigate the risks of air pollution. In this project, I aimed to develop a forecasting model for air pollution levels (PM 2.5 concentrations). I worked on this project under the supervision of Prof. at IIT Delhi. 
 ---

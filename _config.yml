@@ -8,17 +8,6 @@ description: "Data Scientist with a demonstrated history of solving business pro
 
 # Team names, titles and social links
 people:
-# - name: Kay Garland
-#   pic: 1
-#   position: Lead Designer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: stack-overflow
-#       url: #
-
 - name: Gaurav Singh Tanwar
   pic: 2
   position: Data Scientist
@@ -29,17 +18,7 @@ people:
       url: https://github.com/gauravtan26
     - title: medium
       url: https://gauravtanwar1.medium.com/
-
-# - name: Diana Petersen
-#   pic: 3
-#   position: Lead Developer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: google-plus
-#       url: #
+  mail: gstanwar26@gmail.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -49,6 +28,8 @@ social:
     url: https://github.com/gauravtan26
   - title: medium
     url: https://gauravtanwar1.medium.com/
+  - title: google
+    url: gstanwar26@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:

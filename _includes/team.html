@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">ABOUT ME</h2>
+                    <h2 class="section-heading">ABOUT</h2>
                     <!-- <h3 class="section-subheading text-muted">Hello! I am <b>Gaurav</b>. I am a Data Scientist at Jaguar Land Rover. I have done my Bachelor's from one of the premium institutes of India, <b>IIT Delhi</b>. I have worked on industrial projects in the areas like NLP, Computer Vision, and Statistical Modeling. I have expirience of leading projects and starting projects from scratch. I am also skilled in deployment and using cloud services. I write blogs on medium on the areas related to data science.   </h3> -->
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -19,6 +19,7 @@
                         <img src="img/team/dp.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
+                        <p class="text-muted">{{ member.mail }}</p>
                         <ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li>

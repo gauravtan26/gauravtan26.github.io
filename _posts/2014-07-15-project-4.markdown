@@ -10,6 +10,7 @@ alt: image-alt
 # project-date: April 2014
 client: spaCy, Keras, Scikit-learn, AWS, Git
 category: Data Science (NLP)
-description: We connect, learn and have fun through internet around the world. There are several amazing articles, videos etc on internet. When an article or video becomes famous on internet and draws people, it also draws unwanted advertisements in comments section. Here, the aim was develop a model to predict whether a comment is an advertisement or not. The developed model was also deployed on AWS
+description: We connect, learn and have fun through the internet around the world. There are several amazing articles, videos, etc on the internet. When an article or video becomes famous on the internet and draws people, it also draws unwanted advertisements in the comments section. Here, the aim was to develop a model to predict whether a comment is an advertisement or not. The developed model was also deployed on AWS
+
 
 ---

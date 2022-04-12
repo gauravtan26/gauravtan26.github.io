@@ -10,6 +10,6 @@ alt: image-alt
 # project-date: April 2014
 client: Keras, OpenCV, Python, GCP, Git
 category: Data Science (Computer Vision)
-description: Early fault diagnosis in vehicles under warranty can save millions of dollars for any automotive manufacturing firm. I worked as a research scientist with team based in UK leading proposal and implementation of the project. Implemented a CNN architecture using Keras framework and achieved 92% F-Score on test data set.   
+description: Early fault diagnosis in vehicles under warranty can save millions of dollars for any automotive manufacturing firm. I worked as a research scientist with a team based in the UK leading proposal and implementation of the project. Implemented a CNN architecture using Keras framework and achieved 92% F-Score on test data set.   
 
 ---

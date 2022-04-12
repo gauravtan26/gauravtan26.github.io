@@ -10,6 +10,6 @@ alt: image-alt
 # project-date: April 2014
 client: NLTK, OpenCV, spaCy, Python, Tesseract, Git 
 category: Data Science (NLP)
-description: This project aimed to develop an end-to-end system for information retrieval from large volumes of texts. Originally the data was in the form of scanned images hence, implemented OCR using Python libraries to extract text from PDFs. To query the text, I developed a semantic search algorithm using similarity metrics on tokens. I worked in a team of four people, all of them professional data scientists.  
+description: This project aimed to develop an end-to-end system for information retrieval from large volumes of texts. Originally the data was in the form of scanned images hence, implemented OCR using Python libraries to extract text from PDFs. I also developed a semantic search algorithm to facilitate the querying of text. I worked in a team of four people, all professional data scientists.
 
 ---

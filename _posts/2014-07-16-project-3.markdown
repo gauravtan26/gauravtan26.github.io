@@ -10,6 +10,6 @@ alt: image-alt
 # project-date: April 2014
 client: Seaborn, Tableau, Python, Cloud, Clustering, Git
 category: Data Science 
-description: Early fault diagnosis in vehicles under warranty can save millions of dollars for any automotive manufacturing firm. I worked in a team of 5 and constructed hand crafted features and performing clustering. The developed model successfully detected faults in more than 90% of the production vehicles.    
+description: Early fault diagnosis in vehicles under warranty can save millions of dollars for any automotive manufacturing firm. I worked in a team of 5 and constructed hand-crafted features and performed clustering. The developed model successfully detected faults in more than 90% of the production vehicles.    
 
 ---
